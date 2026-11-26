@@ -1,2 +1,2 @@
-# 49-repeater-Group-
-files and things I use to help connect the N0NWS repeater system.
+The default page back-ground color is light green. If you want to change the back-ground color before install. Open the Script file and at the top they are instructions on how to change the color of the back ground. If you install the script and what to change the back ground color that is a section at the bottom of supermon.css that has a top of managed by centering-supermon.sh look at the first few lines of code and you will see the back ground code numbers. Google Ai color pickup helps me to come up with colors I want
+
